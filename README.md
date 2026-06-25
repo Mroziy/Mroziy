@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ozichukwu Sixtus Chimezie (Oziy)
+# 👋 Hi, I'm Ozichukwu Sixtus Chimezie (Ozi)
 
 **Cybersecurity Engineer | Policy & Data Analyst | Digital Rights Advocate**
 

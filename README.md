@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ozichukwu Chimezie
+# 👋 Hi, I'm Ozichukwu Sixtus Chimezie
 
-**Cybersecurity Engineer | Policy & Data Analyst | Digital Rights Advocate**
+**Computer Scientist| Policy & Data Analyst | Digital Rights Advocate**
 
 I build open-source security tools and craft policy for at-risk communities, journalists, and NGOs across Africa. My focus is **African digital sovereignty** — ensuring that digital rights defend vulnerable populations in an increasingly hostile digital landscape.
 

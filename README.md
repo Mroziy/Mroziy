@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ozichukwu Chimezie (Sixtus)
+# 👋 Hi, I'm Ozichukwu Chimezie
 
 **Cybersecurity Engineer | Policy & Data Analyst | Digital Rights Advocate**
 
-I build open-source security tools and craft policy for at-risk communities, journalists, and NGOs across Africa. My focus is **African digital sovereignty** — ensuring that digital rights defenders have access to enterprise-grade protection without the enterprise price tag.
+I build open-source security tools and craft policy for at-risk communities, journalists, and NGOs across Africa. My focus is **African digital sovereignty** — ensuring that digital rights defend vulnerable populations in an increasingly hostile digital landscape.
 
 📍 Port Harcourt, Nigeria | Available in Abuja
 
@@ -54,9 +54,11 @@ An open-source, self-hosted cybersecurity platform protecting NGOs, journalists,
 
 ## 🔗 Connect & Collaborate
 
-- 💼 **LinkedIn:** [linkedin.com/in/ozichukwu-chimezie](https://linkedin.com/in/ozichukwu-chimezie)
-- 🛡️ **Main Project:** [Sentinel-Net](https://github.com/Mroziy/Sentinel-Net)
+- 💼 **LinkedIn:** [ozichukwu-chimezie](https://www.linkedin.com/in/ozichukwu-chimezie-5b585120b)
+- 🐦 **X/Twitter:** [@0zichukwu](https://twitter.com/0zichukwu)
 - 🌐 **Wikidata:** [Q139710485](https://www.wikidata.org/wiki/Q139710485)
+- 🔗 **Linktree:** [linktr.ee/ozichukwu](https://linktr.ee/ozichukwu)
+- 🛡️ **Main Project:** [Sentinel-Net](https://github.com/Mroziy/Sentinel-Net)
 - 📧 **Open to:** Security research · Open-source collaboration · Digital rights initiatives · Fellowship networks
 
 ---
